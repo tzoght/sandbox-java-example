@@ -1,0 +1,3 @@
+[submodule "docs-embeded"]
+	path = docs-embeded
+	url = https://github.com/tzoght/samples-embeded-docs.git
