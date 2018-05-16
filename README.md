@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/tzoght/sandbox-java-example.svg?branch=master)](https://travis-ci.org/tzoght/sandbox-java-example) [![Join the chat at https://gitter.im/sandbox-java-example/Lobby](https://badges.gitter.im/sandbox-java-example/Lobby.svg)](https://gitter.im/sandbox-java-example/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/tzoght/<sandbox-java-example)
 
 # Getting Started Examples
 ## Solace Messaging API for Java (JCSMP)
