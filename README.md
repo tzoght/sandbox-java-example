@@ -6,7 +6,7 @@
 
 This example will show how to quickly get started with "...." using PubSub+
 
-To access a PubSub+ service or broker to run the samples please go [here](https://github.com/tzoght/samples-embeded-docs/blob/master/general/access-pubsub.md). 
+To access a PubSub+ service or broker to run the samples please read the [getting started with pubsub+](https://github.com/tzoght/samples-embeded-docs/blob/master/general/access-pubsub.md)
 
 If you already have access to a PubSub+ VPN or service, that's great, let's get going
 
