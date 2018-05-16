@@ -11,8 +11,8 @@ If you already have access to a PubSub+ VPN or service, that's great, let's get 
 
 ## Contents
 
-This repository contains code and matching tutorial walk throughs for five different basic PubSub+ messaging patterns. 
-For an introduction to the Solace API and associated tutorials, check out the [tutorials home page](https://solacesamples.github.io/solace-samples-java/) and the [individual tutorials](https://github.com/tzoght/samples-embeded-docs/blob/master/general/access-tutorials.md) for more details.
+This repository contains code and matching tutorial walk throughs for the following scenarios:
+1. Hello World
 
 ## Prerequisites
 
